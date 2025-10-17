@@ -1,4 +1,4 @@
-## Hi there 👋
+## Moein Naderi, Ph.D.
 
 - 🔭 I’m currently working on porting the LAMMPS code to Kokkos for GPU-accelerated biophysics simulations.
 - 
