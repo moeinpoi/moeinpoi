@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on porting the LAMMPS code to Kokkos for GPU-accelerated biophysics simulations.
+- 
 <!--
 **moeinpoi/moeinpoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
