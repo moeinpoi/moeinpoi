@@ -1,11 +1,11 @@
 ## Moein Naderi, Ph.D.
 
-- Hi, I'm a Postdoctoral Research Associate at [Peng Lab](https://peng.lab.uic.edu/myresearch/) at [UIC](https://bme.uic.edu).
-- I’m currently working on porting the LAMMPS code to Kokkos for GPU-accelerated biophysics simulations.
+- 💬 Hi, I'm a Postdoctoral Research Associate at [Peng Lab](https://peng.lab.uic.edu/myresearch/) at [UIC](https://bme.uic.edu).
+- 🔭 I’m currently working on porting the LAMMPS code to Kokkos for GPU-accelerated biophysics simulations.
 
-- I also have a [YouTube channel](https://www.youtube.com/@moeinpoi) where I post (not really consistently) tutorial on COMSOL Multiphysics. 
+- ▶️ I also have a [YouTube channel](https://www.youtube.com/@moeinpoi) where I post (not really consistently) tutorial on COMSOL Multiphysics. 
 
-  [LinkedIn](https://www.linkedin.com/in/moein-naderi/) | [Google Scholar](https://scholar.google.com/citations?user=cc2HynoAAAAJ&hl=en&oi=ao) | [YouTube](https://www.youtube.com/@moeinpoi)
+  [LinkedIn](https://www.linkedin.com/in/moein-naderi/) | [Google Scholar](https://scholar.google.com/citations?user=cc2HynoAAAAJ&hl=en&oi=ao) | [YouTube](https://www.youtube.com/@moeinpoi) | [O
   
 <!--
 **moeinpoi/moeinpoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
