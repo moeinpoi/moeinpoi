@@ -1,7 +1,10 @@
 ## Moein Naderi, Ph.D.
 
-- 🔭 I’m currently working on porting the LAMMPS code to Kokkos for GPU-accelerated biophysics simulations.
-- 
+- Hi, I'm a Postdoctoral Research Associate at [Peng Lab](https://peng.lab.uic.edu/myresearch/) at [UIC](https://bme.uic.edu).
+- I’m currently working on porting the LAMMPS code to Kokkos for GPU-accelerated biophysics simulations.
+
+  [LinkedIn](https://www.linkedin.com/in/moein-naderi/) | [Google Scholar](https://scholar.google.com/citations?user=cc2HynoAAAAJ&hl=en&oi=ao)
+  
 <!--
 **moeinpoi/moeinpoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
